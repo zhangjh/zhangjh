@@ -58,14 +58,14 @@
 <table width="100%" style="min-width:320px;max-width:900px;">
   <tr>
     <td width="120" align="center" valign="top">
-      <img src="https://ss.zhangjh.cn/assets/%E6%85%A7%E6%90%9Clogo.png" width="60" alt="惠搜图标"/><br/>
-      <a href="https://ss.zhangjh.cn"><b>惠搜</b></a>
+      <img src="https://ss.zhangjh.cn/assets/%E6%85%A7%E6%90%9Clogo.png" width="60" alt="慧搜图标"/><br/>
+      <a href="https://ss.zhangjh.cn"><b>慧搜</b></a>
     </td>
     <td valign="top">
       <p><b>Android App，快速、语义化搜索手机相册图片，如男女合照、海边日出、冬天堆雪人等等。</b></p>
       <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-        <img src="https://ss.zhangjh.cn/assets/ss1.png" alt="惠搜截图1" style="width: 48%; min-width: 160px; max-width: 320px;">
-        <img src="https://github.com/user-attachments/assets/17c33397-7b79-4b62-afd8-5d30c457af69" alt="惠搜截图2" style="width: 48%; min-width: 160px; max-width: 320px;">
+        <img src="https://ss.zhangjh.cn/assets/ss1.png" alt="慧搜截图1" style="width: 48%; min-width: 160px; max-width: 320px;">
+        <img src="https://github.com/user-attachments/assets/17c33397-7b79-4b62-afd8-5d30c457af69" alt="慧搜截图2" style="width: 48%; min-width: 160px; max-width: 320px;">
       </div>
     </td>
   </tr>
