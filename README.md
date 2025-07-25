@@ -95,36 +95,30 @@
   <tr>
     <!-- 粤语歌曲速成 -->
     <td width="50%" align="center" valign="top">
-      <!-- logo和标题一行 -->
       <div>
-        <img width="60" alt="粤语歌曲速成图标" src="https://github.com/user-attachments/assets/5fcc9fb8-908c-423b-9df1-24627d4a2105" />
+        <img width="60" alt="粤语歌曲速成图标" src="https://github.com/user-attachments/assets/5fcc9fb8-908c-423b-9df1-24627d4a2105"  />
         <br/>
         <a href=""><b>粤语歌曲速成</b></a>
       </div>
-      <!-- 描述一行 -->
       <div>
         <p><b>一个查询粤语歌曲并提供逐字逐句练习评估的小程序。</b></p>
       </div>
-      <!-- 截图一行 -->
       <div>
-        <img src="https://github.com/user-attachments/assets/416db922-99e5-4dde-9417-2f52b2023055" alt="粤语歌曲速成截图" width="180px" />
+        <img src="https://github.com/user-attachments/assets/416db922-99e5-4dde-9417-2f52b2023055" alt="粤语歌曲速成截图" style="width: 48%; min-width: 160px; max-width: 320px;" />
       </div>
     </td>
     <!-- 太初工具集 -->
     <td width="50%" align="center" valign="top">
-      <!-- logo和标题一行 -->
       <div>
         <img width="60" alt="太初工具集图标" src="https://github.com/user-attachments/assets/ef76fb6a-1557-413d-af9d-f324c518a6c9" />
         <br/>
         <a href="https://github.com/user-attachments/assets/6d670111-79a1-429c-9787-df8193634026"><b>太初工具集</b></a>
       </div>
-      <!-- 描述一行 -->
       <div>
         <p><b>一系列AI工具的集合。</b></p>
       </div>
-      <!-- 截图一行 -->
       <div>
-        <img src="https://github.com/user-attachments/assets/07b0862e-d223-4d23-bfa6-9695dc78b748" alt="太初工具集截图" width="180px" />
+        <img src="https://github.com/user-attachments/assets/07b0862e-d223-4d23-bfa6-9695dc78b748" alt="太初工具集截图" style="width: 48%; min-width: 160px; max-width: 320px;" />
       </div>
     </td>
   </tr>
