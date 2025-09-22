@@ -63,6 +63,8 @@
     </td>
     <td valign="top">
       <p><b>Android App，快速、语义化搜索手机相册图片，如男女合照、海边日出、冬天堆雪人等等。</b></p>
+      <p><b>桌面端软件，多工作区映射本地目录、智能语义检索、集成AI智能编辑器，快速自然语言修改图片。</b></p>
+
       <div style="display: flex; gap: 10px; flex-wrap: wrap;">
         <img src="https://ss.zhangjh.cn/assets/ss1.png" alt="慧搜截图1" style="width: 48%; min-width: 160px; max-width: 320px;">
         <img src="https://github.com/user-attachments/assets/17c33397-7b79-4b62-afd8-5d30c457af69" alt="慧搜截图2" style="width: 48%; min-width: 160px; max-width: 320px;">
