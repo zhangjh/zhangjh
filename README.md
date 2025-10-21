@@ -77,7 +77,7 @@
   <tr>
     <td width="120" align="center" valign="top">
       <img src="https://github.com/user-attachments/assets/b88f4da3-af20-4b78-8beb-a67a591224c6" width="60" alt="智阅图标"/><br/>
-      <a href="https://iread.chat"><b>智阅</b></a>
+      <a href="https://iread.zhangjh.cn"><b>智阅</b></a>
     </td>
     <td valign="top">
       <p><b>一个集合了电子书检索、阅读、AI伴读、书籍管理软件。</b></p>
@@ -89,6 +89,24 @@
   </tr>
 </table>
 </div>
+<!-- 智慧系列 - 卡片3 -->
+<table width="100%" style="min-width:320px;max-width:900px;">
+  <tr>
+    <td width="120" align="center" valign="top">
+      <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/d31ea3e9-4977-4212-8311-f79207dab7ba" width="60" alt="智阅图标"/><br/>
+      <a href="https://play.google.com/store/apps/details?id=cn.zhangjh.speakloud&pli=1"><b>SpeakLoud(开口说)</b></a>
+    </td>
+    <td valign="top">
+      <p><b>一个英语口语学习智能教练</b></p>
+      <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+        <img src="https://github.com/user-attachments/assets/d1b4ed34-4f14-4a59-b0f3-f25a318be8a2" alt="开口说截图1" style="width: 48%; min-width: 160px; max-width: 320px;">
+        <img src="https://github.com/user-attachments/assets/bae6b729-ae87-46cb-915c-bb60091471b6" alt="开口说截图2" style="width: 48%; min-width: 160px; max-width: 320px;">
+      </div>
+    </td>
+  </tr>
+</table>
+</div>
+
 
 <!-- 小程序 -->
 #### 微信小程序
