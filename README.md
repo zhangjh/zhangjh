@@ -126,6 +126,20 @@
       </td>
     </tr>
   </table>
+  <table width="100%" style="min-width:320px;max-width:900px;">
+    <tr>
+      <td width="120" align="center" valign="top">
+        <img src="https://raw.githubusercontent.com/zhangjh/V2rayZ/refs/heads/master/V2rayClient/Resources/app.ico" width="60" alt="V2rayZ图标"/><br/>
+        <a href="https://github.com/zhangjh/V2rayZ"><b>基于Sing-box的现代化代理客户端</b></a>
+      </td>
+      <td valign="top">
+        <p><b>一个基于Sing-box的支持TUN模式透明代理，主打Vless&Trojan协议的现代化好用的代理客户端</b></p>
+        <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+          <img src="https://private-user-images.githubusercontent.com/3371714/502833931-01567b24-1126-4395-ad55-a7b5420974d4.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjU1MTc0MTksIm5iZiI6MTc2NTUxNzExOSwicGF0aCI6Ii8zMzcxNzE0LzUwMjgzMzkzMS0wMTU2N2IyNC0xMTI2LTQzOTUtYWQ1NS1hN2I1NDIwOTc0ZDQucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MTIxMiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTEyMTJUMDUyNTE5WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9OGRiOWY3MmZlMDJiMTc0MWMwYzQyZmMwMzUyYjBmMzc5NTQ5NzA2MDU4NjQ5MjhkNWNiZmU4ZWMwMDllYjE1YSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.aqBnazjtXEBJq6bXnZktiyPbMZJ_vpUGKWZYt0MsfYg" style="width: 48%; min-width: 160px; max-width: 320px;" />
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- 小程序 -->
@@ -137,7 +151,7 @@
       <div>
         <img width="60" alt="粤语歌曲速成图标" src="https://github.com/user-attachments/assets/5fcc9fb8-908c-423b-9df1-24627d4a2105"  />
         <br/>
-        <a href=""><b>粤语歌曲速成</b></a>
+        <a href=""><b>粤语歌曲速成 (认证过期，已下架)</b></a>
       </div>
       <div>
         <p><b>一个查询粤语歌曲并提供逐字逐句练习评估的小程序。</b></p>
@@ -151,7 +165,7 @@
       <div>
         <img width="60" alt="太初工具集图标" src="https://github.com/user-attachments/assets/ef76fb6a-1557-413d-af9d-f324c518a6c9" />
         <br/>
-        <a href="https://github.com/user-attachments/assets/6d670111-79a1-429c-9787-df8193634026"><b>太初工具集</b></a>
+        <a href="https://github.com/user-attachments/assets/6d670111-79a1-429c-9787-df8193634026"><b>太初工具集 （认证过期，已下架）</b></a>
       </div>
       <div>
         <p><b>一系列AI工具的集合。</b></p>
