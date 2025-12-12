@@ -177,8 +177,6 @@
   </tr>
 </table>
 
-## 📊 GitHub 活跃度
-![Github Stats](https://github-readme-stats.vercel.app/api?username=zhangjh&show_icons=true&theme=radical)
 
 ## 🌐 其他链接
 
