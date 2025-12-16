@@ -116,12 +116,12 @@
 
 <br>
 
-<div align="center"><img src="https://github.com/user-attachments/assets/0fcf5b61-4c42-42fb-973e-ca08c826813a" width="40"><br><b>V2rayZ</b></div>
+<div align="center"><img src="https://github.com/user-attachments/assets/0fcf5b61-4c42-42fb-973e-ca08c826813a" width="40"><br><b>FlowZ</b></div>
 
 
 > 基于 Sing-box 的现代化代理客户端。支持 TUN 模式透明代理，主打 Vless & Trojan 协议，界面简洁，性能强劲。
 >
-> 📂 [GitHub 仓库](https://github.com/zhangjh/V2rayZ)
+> 📂 [GitHub 仓库](https://github.com/zhangjh/FlowZ)
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/3c7964f9-d6e7-413e-8b43-1f3f31874b77" width="500" style="border-radius: 8px;">
