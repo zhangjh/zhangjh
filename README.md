@@ -85,6 +85,21 @@
 <!-- ================================================= -->
 <details>
   <summary><b>📱 移动应用 (Mobile Apps)</b></summary>
+  
+  <div align="center"><img src="https://github.com/user-attachments/assets/10df3401-1f32-40db-a88d-c573ca1b4521" width="40"><br><b>浮想志</b></div>
+
+  > 专为创意工作者、思考者和记录者打造的智能语音灵感管理工具。通过先进的语音识别技术和端侧AI能力，让你的每一个想法都能被快速捕捉、智能整理，并在需要时精准找回。
+  
+  <div align="center">
+    <!-- 用一张静态截图作为封面，点击跳转到视频地址 -->
+    <a href="https://resources.modelscope.cn/operation/video/f98356e1-9df1-46dd-96fa-2b37e1a6df80.mp4" target="_blank">
+      <img src="https://github.com/user-attachments/assets/b4652db6-cdb5-447e-b1c4-330bb96b3545" width="500" style="border-radius: 8px; border: 1px solid #eee;" alt="点击播放视频">
+      <br>
+      <sub>🎥 点击观看演示视频</sub>
+    </a>
+  </div>
+  <br>
+  
   <div align="center"><img src="https://github.com/user-attachments/assets/1e609c08-2bf5-4929-aaed-39021ba3d0d9" width="40"><br><b>开口说(SpeakLoud)</b></div>
 
   > 口袋英语口语私教。通过实时语音识别与评估，帮助用户克服“哑巴英语”，自信开口。
