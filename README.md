@@ -103,9 +103,7 @@
   <div align="center"><img src="https://github.com/user-attachments/assets/1e609c08-2bf5-4929-aaed-39021ba3d0d9" width="40"><br><b>开口说(SpeakLoud)</b></div>
 
   > 口袋英语口语私教。通过实时语音识别与评估，帮助用户克服“哑巴英语”，自信开口。
-  >
-  > ▶️ [Google Play 下载](https://play.google.com/store/apps/details?id=cn.zhangjh.speakloud&pli=1)
-  
+    
   <div align="center">
     <img src="https://github.com/user-attachments/assets/e370f8ff-c9ae-436b-9095-fe37245064d2" width="300" style="border-radius: 8px;">
     <img src="https://github.com/user-attachments/assets/fed53f21-886b-4c44-b85e-cf22a2e1b121" width="300" style="border-radius: 8px;">
