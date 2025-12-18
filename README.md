@@ -86,17 +86,16 @@
 <details>
   <summary><b>📱 移动应用 (Mobile Apps)</b></summary>
   
-  <div align="center"><img src="https://github.com/user-attachments/assets/10df3401-1f32-40db-a88d-c573ca1b4521" width="40"><br><b>浮想志</b></div>
+  <div align="center">
+    <img src="https://github.com/user-attachments/assets/10df3401-1f32-40db-a88d-c573ca1b4521" width="40">
+    <br><b>浮想志</b>
+    <a href="https://modelscope.cn/learn/2483" />
+  </div>
 
   > 专为创意工作者、思考者和记录者打造的智能语音灵感管理工具。通过先进的语音识别技术和端侧AI能力，让你的每一个想法都能被快速捕捉、智能整理，并在需要时精准找回。
   
   <div align="center">
-    <!-- 用一张静态截图作为封面，点击跳转到视频地址 -->
-    <a href="https://resources.modelscope.cn/operation/video/f98356e1-9df1-46dd-96fa-2b37e1a6df80.mp4" target="_blank">
-      <img src="https://github.com/user-attachments/assets/b4652db6-cdb5-447e-b1c4-330bb96b3545" width="500" style="border-radius: 8px; border: 1px solid #eee;" alt="点击播放视频">
-      <br>
-      <sub>🎥 点击观看演示视频</sub>
-    </a>
+    <video src="https://github.com/user-attachments/assets/5ca8800a-f724-4c3f-a85f-c711e50d6eb5" width="500" controls></video>
   </div>
   <br>
   
@@ -139,18 +138,16 @@
     <img src="https://github.com/user-attachments/assets/3c7964f9-d6e7-413e-8b43-1f3f31874b77" width="500" style="border-radius: 8px;">
   </div>
   
-  <div align="center"><img src="https://github.com/user-attachments/assets/e5186cea-ef69-4a81-8b81-2a4fdece04ba" width="40"><br><b>PPT Helper(PPT演讲预演助手)</b></div>
-  
-  
-  > 基于端侧AI的PPT预演助手。基于Windows Powerpoint COM API + 端侧音视频LLM，支持一边录屏一边实时智能分析，助力演练PPT演讲，达到满意状态。
-  
   <div align="center">
-    <!-- 用一张静态截图作为封面，点击跳转到视频地址 -->
-    <a href="https://resources.modelscope.cn/operation/video/73629c6a-8913-468b-b29d-e976bcc6be37.mp4" target="_blank">
-      <img src="https://github.com/user-attachments/assets/5c6152ac-2dba-4ec8-85d9-fe5228063a79" width="500" style="border-radius: 8px; border: 1px solid #eee;" alt="点击播放视频">
-      <br>
-      <sub>🎥 点击观看演示视频 (Demo Video)</sub>
-    </a>
+    <img src="https://github.com/user-attachments/assets/e5186cea-ef69-4a81-8b81-2a4fdece04ba" width="40">
+    <br><b>PPT Helper(PPT演讲预演助手)</b>
+    <a href="https://modelscope.cn/learn/2824" />
+  </div>
+
+  > 基于端侧AI的PPT预演助手。基于Windows Powerpoint COM API + 端侧音视频LLM，支持一边录屏一边实时智能分析，助力演练PPT演讲，达到满意状态。
+> 
+  <div align="center">
+    <video src="https://github.com/user-attachments/assets/76893978-7659-48cf-91f2-1f04a9e19de8" width="500" controls></video>
   </div>
 </details> 
 
