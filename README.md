@@ -114,7 +114,7 @@
 <!-- ================================================= -->
 <details>
   <summary><b>🖥️ 桌面与开源工具</b></summary>
-  <div align="center"><span style="font-size: 40px">🖼️</span><br><b>AI 智能图像重命名工具(SpeakLoud)</b></div>
+  <div align="center"><span style="font-size: 40px">🖼️</span><br><b>AI 智能图像重命名工具</b></div>
 
   > 🏆 **阿里千问 Coder 挑战赛最佳贡献三等奖作品**
   > 一个智能批量图片重命名桌面软件，基于视觉模型理解图片内容并自动生成文件名。
