@@ -149,6 +149,17 @@
   <div align="center">
     <video src="https://github.com/user-attachments/assets/76893978-7659-48cf-91f2-1f04a9e19de8" width="500" controls></video>
   </div>
+
+  > 拒绝臃肿与监控 · 内置生产力工具 · 越用越懂你的跨平台中英文输入法--素言
+  >
+  > [产品网站](https://suyan.zhangjh.cn)
+
+  <div align="center">
+    <img src="https://github.com/user-attachments/assets/63a2efb4-3835-4ffa-b599-c7e5fc0ea7f5" width="500" style="border-radius: 8px;">
+    <br><b>素言输入法</b>
+    <a href="https://suyan.zhangjh.cn" />
+  </div>
+
 </details> 
 
 <!-- ================================================= -->
