@@ -150,7 +150,13 @@
     <video src="https://github.com/user-attachments/assets/76893978-7659-48cf-91f2-1f04a9e19de8" width="500" controls></video>
   </div>
 
-  > 拒绝臃肿与监控 · 内置生产力工具 · 越用越懂你的跨平台中英文输入法--素言
+  <div align="center">
+    <img src="https://suyan.zhangjh.cn/logo.png" width="40">
+    <br><b>办公生产力工具--素言</b>
+    <a href="https://suyan.zhangjh.cn" />
+  </div>
+
+  > 拒绝臃肿与监控 · 内置生产力工具 · 越用越懂你的跨平台中英文多模式输入法--素言
   >
   > [产品网站](https://suyan.zhangjh.cn)
 
